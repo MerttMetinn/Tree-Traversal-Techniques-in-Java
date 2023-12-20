@@ -1,2 +1,2 @@
 # Data Structres
- Bu repoda C dilinde Data Stractures konusu hakkındaki dökümanlarımı paylaşacağım.
+ Bu repoda Data Stractures konusu hakkındaki dokümanlarımı paylaşacağım.
