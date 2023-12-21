@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e09b45b-9370-4b50-a8d3-132699e68209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InOrder-Traversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node_BST.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e09b45b-9370-4b50-a8d3-132699e68209" name="Changes" comment="InOrder-Traversal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +48,20 @@
       <option name="presentableId" value="Default" />
       <updated>1703148603767</updated>
     </task>
+    <task id="LOCAL-00001" summary="InOrder-Traversal">
+      <option name="closed" value="true" />
+      <created>1703148863545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703148863545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PreOrder Traversal" />
+    <MESSAGE value="InOrder-Traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="InOrder-Traversal" />
   </component>
 </project>
